@@ -115,7 +115,8 @@ class AbdelouahedAhnid:
             "data_tools": ["Pandas", "NumPy", "Seaborn", "Matplotlib"],
             "databases": ["MySQL"],
             "tools": ["Git", "Jupyter", "Google Colab"]
-        } ```
+        }
+python ```
 
 
 🤝 Let's Connect!
