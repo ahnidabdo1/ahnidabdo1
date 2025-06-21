@@ -91,7 +91,7 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
 ---
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahnidabdo1/ahnidabdo1/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/ahnidabdo1/ahnidabdo1/output/snake.svg)
 
 ###
 ---
