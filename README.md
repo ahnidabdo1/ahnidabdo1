@@ -116,3 +116,43 @@ class AbdelouahedAhnid:
             "databases": ["MySQL"],
             "tools": ["Git", "Jupyter", "Google Colab"]
         }
+
+## 📈 Learning Journey
+
+- ✅ **Phase 1**: Python & Data Structures  
+- ✅ **Phase 2**: Statistical Analysis & Data Visualization  
+- 🔄 **Phase 3**: ML Algorithms & Implementation  
+- 📅 **Phase 4**: Deep Learning & Neural Networks  
+- 📅 **Phase 5**: Specialized AI Applications (Computer Vision, NLP)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate, exchange ideas, or contribute to AI/ML innovations!
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdelouahed-ahnid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahnidabdelouahed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+> "The best way to predict the future is to create it."  
+> — That’s exactly why I’m passionate about AI: building the tools that shape tomorrow.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahnidabdo1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
+
+<div align="center">
+  ⭐ <i>If you enjoy my work, feel free to star my repositories and follow along!</i> ⭐
+</div>
