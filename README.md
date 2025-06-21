@@ -127,4 +127,4 @@ I'm always excited to collaborate, exchange ideas, or contribute to AI/ML innova
 "The best way to predict the future is to create it."
 — That’s exactly why I’m passionate about AI: building the tools that shape tomorrow.
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ahnidabdo1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/> </div> <div align="center"> ⭐ <i>If you enjoy my work, feel free to star my repositories and follow along!</i> ⭐ </div> ```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ahnidabdo1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/> </div> <div align="center"> ⭐ <i>If you enjoy my work, feel free to star my repositories and follow along!</i> ⭐ </div>
