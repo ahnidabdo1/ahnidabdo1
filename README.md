@@ -17,43 +17,50 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
 
 ---
 
-## 🛠️ Technical Stack
+## 💻 Technical Stack
 
 ### 👨‍💻 Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45" title="MATLAB"/>
 </p>
 
-### 🧠 Machine Learning & Data Science
+### 🧠 Machine Learning & AI
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45" title="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45" title="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45" title="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45" title="OpenCV"/>
 </p>
 
-### 🗃️ Databases & Tools
+### 📊 Data Science & Visualization
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="45" height="45"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="90"/>
-  <img src="https://www.talend.com/wp-content/uploads/2020/10/talend-logo.svg" alt="Talend" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" title="Pandas"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45" title="Seaborn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" title="NumPy"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="45" height="45" title="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45" title="Power BI"/>
 </p>
 
-### 📊 Data Visualization & BI
+### 🌐 Web & Deployment
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/P/power-bi-logo-0B2E3F7CDA-seeklogo.com.png" alt="Power BI" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="45" height="45" title="Flask"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="45" height="45" title="Streamlit"/>
 </p>
 
+### 🗃️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" title="PostgreSQL"/>
+</p>
+
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" title="Jupyter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="45" height="45" title="Notion"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45" title="Unity"/>
+</p>
 ---
 
 ## 📊 GitHub Analytics
