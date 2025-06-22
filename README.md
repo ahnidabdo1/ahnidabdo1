@@ -29,6 +29,7 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45" title="PyTorch"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45" title="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="45" height="45" title="Keras"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45" title="Scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45" title="OpenCV"/>
 </p>
@@ -38,7 +39,6 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" title="Pandas"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45" title="Seaborn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" title="NumPy"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="45" height="45" title="Tableau"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45" title="Power BI"/>
 </p>
 
