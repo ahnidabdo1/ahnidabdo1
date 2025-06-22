@@ -86,7 +86,7 @@ class AbdelouahedAhnid:
     def __init__(self):
         self.name = "Abdelouahed Ahnid"
         self.role = "AI/ML Student"
-        self.location = "Morocco"
+        self.location = "Casablanca, Morocco"
 
     def current_learning(self):
         return [
