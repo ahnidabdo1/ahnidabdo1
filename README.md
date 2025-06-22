@@ -19,18 +19,35 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
 
 ## 🛠️ Technical Stack
 
+## 🛠️ Technical Stack
+
 ### 👨‍💻 Programming Languages
-<p align="left"> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/></a> <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://www.svgrepo.com/show/354200/oracle.svg" alt="PL/SQL" width="45" height="45"/></a> <a href="https://www.sql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45" height="45"/></a> </p>
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
+![PL/SQL](https://upload.wikimedia.org/wikipedia/commons/8/8d/Oracle_PL-SQL_logo.svg)
+![SQL](https://img.icons8.com/color/48/sql.png)
 
 ### 🧠 Machine Learning & Data Science
-<p align="left"> <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/></a> <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/></a> <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></a> <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/></a> <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/></a> </p>
+![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)
+![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
+![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 
 ### 🗃️ Databases & Tools
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a> <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/></a> <a href="https://colab.research.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="45" height="45"/></a> <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="100" height="30"/></a> <a href="https://www.talend.com/" target="_blank"><img src="https://seeklogo.com/images/T/talend-logo-B9AB0B77E7-seeklogo.com.png" alt="Talend" width="45" height="45"/></a> </p>
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg)
+![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
+![Google Colab](https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg)
+![Streamlit](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg)
+![Talend](https://www.talend.com/wp-content/uploads/2020/10/talend-logo.svg)
 
 ### 📊 Data Visualization & BI
-<p align="left"> <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/></a> <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://seeklogo.com/images/P/power-bi-logo-0B2E3F7CDA-seeklogo.com.png" alt="Power BI" width="45" height="45"/></a> <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="45" height="45"/></a> </p>
-
+![Tableau](https://cdn.worldvectorlogo.com/logos/tableau-software.svg)
+![Power BI](https://seeklogo.com/images/P/power-bi-logo-0B2E3F7CDA-seeklogo.com.png)
+![Excel](https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg)
 ---
 
 ## 📊 GitHub Analytics
