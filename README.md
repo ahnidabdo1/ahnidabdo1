@@ -23,7 +23,6 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Oracle_PL-SQL_logo.svg" alt="PL/SQL" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="45" height="45"/>
 </p>
 
