@@ -89,12 +89,39 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
 </div>
 
 ---
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/ahnidabdo1/ahnidabdo1/output/snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
+## 🎯 Current Focus Areas
+
 ---
+```python
+class AbdelouahedAhnid:
+    def __init__(self):
+        self.name = "Abdelouahed Ahnid"
+        self.role = "AI/ML Student"
+        self.location = "Morocco"
+
+    def current_learning(self):
+        return [
+            "Deep Learning Architectures",
+            "Computer Vision Applications",
+            "Natural Language Processing",
+            "Statistical Analysis & Modeling",
+            "MLOps and Model Deployment"
+        ]
+
+    def tech_stack(self):
+        return {
+            "languages": ["Python", "MATLAB"],
+            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
+            "data_tools": ["Pandas", "NumPy", "Seaborn", "Matplotlib"],
+            "databases": ["MySQL"],
+            "tools": ["Git", "Jupyter", "Google Colab"]
+        }
+```
 🤝 Let's Connect!
 I'm always excited to collaborate, exchange ideas, or contribute to AI and ML innovations!
 
