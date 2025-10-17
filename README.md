@@ -42,7 +42,7 @@ I'm a passionate **AI/ML student** on a journey to explore the transformative wo
 
 ### 💻 Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnidabdo1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnidabdo1&layout=compact&theme=tokyonight&hide_border=true&langs_count=100" />
 </div>
 
 ### 🏆 GitHub Trophies
